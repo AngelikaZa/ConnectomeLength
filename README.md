@@ -1,7 +1,7 @@
 # ConnectomeLength
 
 Code accompanying:
-    Zarkali et al. Dementia risk in Parkinson’s disease is associated with interhemispheric connectivity loss and determined by regional gene expression. NeuroImage Clinical (in       press)
+    Zarkali et al. Dementia risk in Parkinson’s disease is associated with interhemispheric connectivity loss and determined by regional gene expression. NeuroImage Clinical (in       press) https://www.sciencedirect.com/science/article/pii/S2213158220303077#f0020
     
 <b>Usage</b>:
 
